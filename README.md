@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on [Scius 17 sut](https://scius.mhesi.go.th/index.php/th/)
 
-- 📄 Know about my experiences [Esan hub developer and tomtamx bloxfruit script maker](Esan hub developer and tomtamx bloxfruit script maker)
+- 📄 Know about my experiences [Esan hub developer and tomtamx bloxfruit script maker my discord is chemistry_addicted](Esan hub developer and tomtamx bloxfruit script maker)
 
 - ⚡ Fun fact **i am funny**
 
