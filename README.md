@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sky</h1>
-<h3 align="center">A Newbie Lua Pythorn and Javascript Scripter</h3>
+<h3 align="center">A Newbie Lua Pythorn and Javascript Scripter Posn Chem 1</h3>
 
 - 🔭 I’m currently studying on [Scius 17 sut](https://scius.mhesi.go.th/index.php/th/)
 
